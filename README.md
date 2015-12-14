@@ -1,2 +1,2 @@
 # ws1
-Web Services 1 cource
+Web Services 1 course
